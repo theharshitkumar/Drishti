@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Drishti</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="BaseURL">https://10.0.10.45:8000/</string>
+</resources>
